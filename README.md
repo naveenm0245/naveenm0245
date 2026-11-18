@@ -1,5 +1,3 @@
-<img src="naveen.jpg" alt="Naveen Meena" width="150" align="right" />
-
 ### Hi, I'm Naveen 👋
 
 **Founding engineer · AI engineer · full-stack product engineer.** I take products from idea to paying users: 9 shipped end to end, founding engineer through an acquisition, 8+ years, IIT Kanpur. Remote from Lisbon, Portugal (UTC+0).
