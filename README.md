@@ -15,7 +15,7 @@
 | [OllamaOCR](https://ollamaocr.com) | OCR API + MCP server | [On npm](https://www.npmjs.com/package/ollamaocr-mcp); 4,000+ pages at p95 under 3 s/page |
 | [Luma](https://lumamanifest.com) | iOS + Android app: affirmations in your own cloned voice | Live on the [App Store](https://apps.apple.com/us/app/luma-manifest-in-your-voice/id6813143459) and Google Play |
 | CSEAI | Vertical AI platform for dynamic notes | 8,000+ users, 40K+ notes, 2K+ MAU |
-| [fdrop](https://fdrop.cc) | Fast file sharing | Shipped 2025 |
+| [fdrop](https://fdrop.cc) | AirDrop for every device, in the browser | Up to 1 GB per file, no app, no signup |
 
 Earlier: founding engineer at **LinkDeck** (acquired), co-founder of **Battlewits** (50K+ downloads, ~3,000 paying users), and safety-critical avionics + LIDAR/RADAR perception at **Honeywell**.
 
