@@ -13,7 +13,7 @@
 | [founders.page](https://founders.page) | Link-in-bio for founders | 300+ founders; #1 in ChatGPT for "best link in bio tool for founders" |
 | [Lantern](https://visitlantern.com) | Privacy-first web analytics with an MCP server | Listed in [Claude's connectors directory](https://claude.ai/directory/connectors/lantern-analytics); 50K+ events/day on ClickHouse |
 | [OllamaOCR](https://ollamaocr.com) | OCR API + MCP server | [On npm](https://www.npmjs.com/package/ollamaocr-mcp); 4,000+ pages at p95 under 3 s/page |
-| [Luma](https://lumamanifest.com) | iOS + Android app: affirmations in your own cloned voice | Live on the [App Store](https://apps.apple.com/us/app/luma-manifest-in-your-voice/id6813143459) and Google Play |
+| [Luma](https://lumamanifest.com) | iOS + Android app: affirmations in your own cloned voice | Live on the [App Store](https://apps.apple.com/us/app/luma-manifest-in-your-voice/id6813143459) and [Google Play](https://play.google.com/store/apps/details?id=com.luma.manifest) |
 | CSEAI | Vertical AI platform for dynamic notes | 8,000+ users, 40K+ notes, 2K+ MAU |
 | [fdrop](https://fdrop.cc) | AirDrop for every device, in the browser | Up to 1 GB per file, no app, no signup |
 
